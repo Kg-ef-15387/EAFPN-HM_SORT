@@ -11,8 +11,8 @@ mmcv-full == 1.3.18
 mmdet == 2.19.0
 
 ## Related frameworks and data
-1. Object Detection Framework[mmdetection](https://github.com/open-mmlab/mmdetection)
-2. Multiple Object Tracking Framework[boxmot](https://github.com/mikel-brostrom/boxmot)
+1. Object Detection Framework: [mmdetection](https://github.com/open-mmlab/mmdetection)
+2. Multiple Object Tracking Framework: [boxmot](https://github.com/mikel-brostrom/boxmot)
 3. [test data]()
 
 ## Reference
