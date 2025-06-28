@@ -11,6 +11,11 @@ mmcv-full == 1.3.18
 mmdet == 2.19.0
 
 ## Related frameworks and data
-1. [mmdetection](https://github.com/open-mmlab/mmdetection)
-2. [boxmot](https://github.com/mikel-brostrom/boxmot)
+1. Object Detection Framework[mmdetection](https://github.com/open-mmlab/mmdetection)
+2. Multiple Object Tracking Framework[boxmot](https://github.com/mikel-brostrom/boxmot)
 3. [test data]()
+
+## Reference
+Relevent references include, but are not limited to:
+Chen, Kai, et al. "MMDetection: Open mmlab detection toolbox and benchmark." arXiv preprint arXiv:1906.07155 (2019).
+Cao, Jinkun, et al. "Observation-centric sort: Rethinking sort for robust multi-object tracking." arXiv preprint arXiv:2303.16058 (2023).
