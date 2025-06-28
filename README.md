@@ -17,5 +17,7 @@ mmdet == 2.19.0
 
 ## Reference
 Relevent references include, but are not limited to:
+
 Chen, Kai, et al. "MMDetection: Open mmlab detection toolbox and benchmark." arXiv preprint arXiv:1906.07155 (2019).
+
 Cao, Jinkun, et al. "Observation-centric sort: Rethinking sort for robust multi-object tracking." arXiv preprint arXiv:2303.16058 (2023).
